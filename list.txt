@@ -1,0 +1,141 @@
+non veg bteakfast /////// 
+
+ Egg Sandwitch
+ Rs.70
+    Chicken Sandwich
+	RS.120
+      Chicken Grilled Sandwich RS.170
+       Omelette/ Egg Bhurji
+	   RS.60
+     Omelette with Slice
+	 RS.70
+		
+		
+		
+		Non veg chinese ......   
+		Chicken Noodle
+		150
+       Chicken Hakka Noodle
+	   RS.160
+
+      Chicken Chowmin with Gravy
+	  RS.170
+    American Chop Suey
+	RS.190
+
+       Chicken Sweet N Sour RS.240
+       Tripple Sizone Non Veg RS.320
+    Chicken Spring Roll Rs.200
+
+      Chicken Chilli Boneless 
+	  Rs.210/370
+       Garlic Chicken
+	   Rs.210/370
+
+      Chicken Manchurian
+	  Rs.210/370
+
+     Chicken Ginger
+	 Rs.210/370
+       Chicken Loly Pop
+	   Rs.210/370
+      Paper Chicken
+	  Rs.230/410
+        Chicken Bullets
+		Rs.210/370
+       Chicken Hong Kong
+	   Rs.200/360
+     
+		
+		
+		
+		Non veg dinner... 
+      Tandoori Roti
+	  Rs.12
+       Butter Roti
+	   RS.15
+       Missi Roti
+	   RS.16
+     Romali Roti
+	 RS.60
+       Egg Fried Ric
+	   RS.100
+       Murg Dum Biryani
+	   RS.100 
+      Hyderabadi Gosht Biryani
+	  RS.10
+       Chicken Sizechwan Fried Rice
+	   RS.100
+
+       Chicken Sonali Kabab
+	   RS.100
+     Chicken Tandoori
+	 RS.100
+        mCountryModel.add(new ColdAdapterModel("Chicken White Tandoori", "Chicken White Tandoori", "RS.100", "Tandoori chicken is a dish originating in the Indian subcontinen"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Malai Tikka", "Chicken Malai Tikka", "RS.100", "Murgh Malai Kabab Creamy Chicken Tikka Kabab which is made by marinating chicken with cheese, fresh cream and spices."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Afgani", "Chicken Afgani", "RS.100","Afghani Chicken Curry is a delicious chicken recipe from Afghanistan"));
+        mCountryModel.add(new ColdAdapterModel("Murgh Tikka Achari", "Murgh Tikka Achari", "RS.100", "Chicken Pieces are marinated with curd and pickling spices & are cooked either using grill or tava"));
+        mCountryModel.add(new ColdAdapterModel("Murag tikka Irani Style", "Murag tikka Irani Style", "RS.100", "Iranians make Kababs in a variety of different styles and tastes. Chicken Irani kabab is one of them."));
+        mCountryModel.add(new ColdAdapterModel("Reshami Kabab", "Reshami Kabab", "RS.100","Reshmi Kabab is made with Pieces of Boneless Chicken Breast, marinated in juicy mixture of Curd, Cream, Cashew nuts"));
+        mCountryModel.add(new ColdAdapterModel("Kalmi kabab", "Kalmi kabab", "RS.100","This Kalmi Kebab is mild in spice, juicy, succulent, tender and tastes good"));
+        mCountryModel.add(new ColdAdapterModel("Stuff Tangari Kabab", "Stuff Tangari Kabab", "RS.100", "It is a chicken drumsticks with Tandoori spices and lamb stuffing."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Malai Kabab", "Chicken Malai Kabab", "RS.100","Chunks of chicken wrapped in creamy textures of cheese, cream cheese and sour cream along with spices and a generous squeeze of lime"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Hara Bara Kabab", "Chicken Hara Bara Kabab", "RS.100", " Hariyali Chicken Kabab is one of the most famous Indian Kabab dish "));
+        mCountryModel.add(new ColdAdapterModel("Chicken Kathi Roll", "Chicken Kathi Roll", "RS.100", "A kati roll is a street-food dish originating from Kolkata, India"));
+        mCountryModel.add(new ColdAdapterModel("Atta Chicken(On Demand)", "Atta Chicken(On Demand)", "RS.100", "A great Indian Recipe to have a fabulos chicken"));
+        mCountryModel.add(new ColdAdapterModel("Tandoori Sangam", "Tandoori Sangam", "RS.100","It is marinated in yogurt and seasoned with the spice mixture tandoori masala"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Seekh Kabab", "Chicken Seekh Kabab", "RS.100", "Chicken Seekh Kabab is the special delight of minced chicken, poppy seeds and spices. "));
+        mCountryModel.add(new ColdAdapterModel("Tangari Kabab", "Tangari Kabab", "RS.100", "Tangdi kabab is a delicious melt in mouth appetizer prepared by soft, moist chicken. "));
+        mCountryModel.add(new ColdAdapterModel("Fish Tikka Nimbooz Andaaz", "Fish Tikka Nimbooz Andaaz", "RS.100", "A tikka in oven is one of the easiest healthy Indian appetizers "));
+        mCountryModel.add(new ColdAdapterModel("Fish tikka Irani Style", "Fish tikka Irani Style", "RS.100","Fillet of fish marinated in a mixture of yoghurt, cashew nut, ginger-garlic paste with flavour of green cardamon."));
+        mCountryModel.add(new ColdAdapterModel("Fish Malai Tikka White", "Fish Malai Tikka White", "RS.100", "Fish marinated in a mixture of yoghurt, cashew nut, ginger-garlic paste with flavour of green cardamon"));
+        mCountryModel.add(new ColdAdapterModel("Fish Curry", "Fish Curry", "RS.100", "It is the curry made of the fish head "));
+        mCountryModel.add(new ColdAdapterModel("Fish Tomato", "Fish Tomato", "RS.100", "Fish in tomato and onion sauce inspired from the Bengali kitchens."));
+        mCountryModel.add(new ColdAdapterModel("Fish Masala", "Fish Masala", "RS.100", "Fish Masala is a very popular recipe."));
+        mCountryModel.add(new ColdAdapterModel("Fish Karahi", "Fish Karahi", "RS.100","The most delicious, flavourful and spicy fish karahi! "));
+        mCountryModel.add(new ColdAdapterModel("Fish Pakora", "Fish Pakora", "RS.100", "Juicy fish fillets are coated in a spicy batter and fried till a golden perfection."));
+        mCountryModel.add(new ColdAdapterModel("Fish Fry", "Fish Fry", "RS.100", "A fish fry is a meal containing battered or breaded fried fish"));
+        mCountryModel.add(new ColdAdapterModel("Fish Finger", "Fish Finger", "RS.100", "  hello change"));
+        mCountryModel.add(new ColdAdapterModel("Fish Cutluts", "Fish Cutluts", "RS.100", "A cutlet specifically refers to cooked meat (mutton..
+		
+		
+		
+		
+		[2:47:49 PM] So Bia: non veg lunch ... mCountryModel.add(new ColdAdapterModel("Tandoori Roti", "Tandoori Roti", "Rs.12","Tandoori Roti is a very popular flatbread recipe traditionally made in tandoor"));
+        mCountryModel.add(new ColdAdapterModel("Butter Roti", "Butter Roti", "RS.15","It is very popular flatbread recipe with pouerd melted better"));
+        mCountryModel.add(new ColdAdapterModel("Missi Roti", "Missi Roti", "RS.16", "Missi roti is an Indian bread made with a combination of wheat flour and gramflour and seasoned with spices."));
+        mCountryModel.add(new ColdAdapterModel("Romali Roti", "Romali Roti", "RS.60", "It is a thin flatbread originating from the Indian subcontinent, popular in India and in Punjab"));
+        mCountryModel.add(new ColdAdapterModel("Egg Fried Rice", "Egg Fried Rice", "RS.100", "It is a Chinese dish of steamed rice that has been stir-fried in a wok & mixed with other ingredients"));
+        mCountryModel.add(new ColdAdapterModel("Murg Dum Biryani", "Murg Dum Biryani", "RS.100", "Murag Dum Biryani is world famous dish from India, native to Hyderabad."));
+        mCountryModel.add(new ColdAdapterModel("Hyderabadi Gosht Biryani", "Hyderabadi Gosht Biryani", "RS.100", "Hyderabadi Gosht Biryani is world famous dish from India, native to Hyderabad."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Sizechwan Fried Rice", "Chicken Sizechwan Fried Rice", "RS.100","A mildly spicy, hot and delicious chicken fried rice recipe with soft and tender chicken chunks."));
+[2:48:01 PM] So Bia: ("Chicken Sonali Kabab", "Chicken Sonali Kabab", "RS.100", "Pieces of tandoori chicken, seekh kebab, chicken & meat tikka & naan bread."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Tandoori", "Chicken Tandoori", "RS.100", "Tandoori chicken is a dish originating in the Indian subcontinent. "));
+        mCountryModel.add(new ColdAdapterModel("Chicken White Tandoori", "Chicken White Tandoori", "RS.100", "Tandoori chicken is a dish originating in the Indian subcontinen"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Malai Tikka", "Chicken Malai Tikka", "RS.100", "Murgh Malai Kabab Creamy Chicken Tikka Kabab which is made by marinating chicken with cheese, fresh cream and spices."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Afgani", "Chicken Afgani", "RS.100","Afghani Chicken Curry is a delicious chicken recipe from Afghanistan"));
+        mCountryModel.add(new ColdAdapterModel("Murgh Tikka Achari", "Murgh Tikka Achari", "RS.100", "Chicken Pieces are marinated with curd and pickling spices & are cooked either using grill or tava"));
+        mCountryModel.add(new ColdAdapterModel("Murag tikka Irani Style", "Murag tikka Irani Style", "RS.100", "Iranians make Kababs in a variety of different styles and tastes. Chicken Irani kabab is one of them."));
+        mCountryModel.add(new ColdAdapterModel("Reshami Kabab", "Reshami Kabab", "RS.100","Reshmi Kabab is made with Pieces of Boneless Chicken Breast, marinated in juicy mixture of Curd, Cream, Cashew nuts"));
+        mCountryModel.add(new ColdAdapterModel("Kalmi kabab", "Kalmi kabab", "RS.100","This Kalmi Kebab is mild in spice, juicy, succulent, tender and tastes good"));
+        mCountryModel.add(new ColdAdapterModel("Stuff Tangari Kabab", "Stuff Tangari Kabab", "RS.100", "It is a chicken drumsticks with Tandoori spices and lamb stuffing."));
+        mCountryModel.add(new ColdAdapterModel("Chicken Malai Kabab", "Chicken Malai Kabab", "RS.100","Chunks of chicken wrapped in creamy textures of cheese, cream cheese and sour cream along with spices and a generous squeeze of lime"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Hara Bara Kabab", "Chicken Hara Bara Kabab", "RS.100", " Hariyali Chicken Kabab is one of the most famous Indian Kabab dish "));
+        mCountryModel.add(new ColdAdapterModel("Chicken Kathi Roll", "Chicken Kathi Roll", "RS.100", "A kati roll is a street-food dish originating from Kolkata, India"));
+        mCountryModel.add(new ColdAdapterModel("Atta Chicken(On Demand)", "Atta Chicken(On Demand)", "RS.100", "A great Indian Recipe to have a fabulos chicken"));
+        mCountryModel.add(new ColdAdapterModel("Tandoori Sangam", "Tandoori Sangam", "RS.100","It is marinated in yogurt and seasoned with the spice mixture tandoori masala"));
+        mCountryModel.add(new ColdAdapterModel("Chicken Seekh Kabab", "Chicken Seekh Kabab", "RS.100", "Chicken Seekh Kabab is the special delight of minced chicken, poppy seeds and spices. "));
+        mCountryModel.add(new ColdAdapterModel("Tangari Kabab", "Tangari Kabab", "RS.100", "Tangdi kabab is a delicious melt in mouth appetizer prepared by soft, moist chicken. "));
+        mCountryModel.add(new ColdAdapterModel("Fish Tikka Nimbooz Andaaz", "Fish Tikka Nimbooz Andaaz", "RS.100", "A tikka in oven is one of the easiest healthy Indian appetizers "));
+        mCountryModel.add(new ColdAdapterModel("Fish tikka Irani Style", "Fish tikka Irani Style", "RS.100","Fillet of fish marinated in a mixture of yoghurt, cashew nut, ginger-garlic paste with flavour of green cardamon."));
+        mCountryModel.add(new ColdAdapterModel("Fish Malai Tikka White", "Fish Malai Tikka White", "RS.100", "Fish marinated in a mixture of yoghurt, cashew nut, ginger-garlic paste with flavour of green cardamon"));
+        mCountryModel.add(new ColdAdapterModel("Fish Curry", "Fish Curry", "RS.100", "It is the curry made of the fish head "));
+        mCountryModel.add(new ColdAdapterModel("Fish Tomato", "Fish Tomato", "RS.100", "Fish in tomato and onion sauce inspired from the Bengali kitchens."));
+        mCountryModel.add(new ColdAdapterModel("Fish Masala", "Fish Masala", "RS.100", "Fish Masala is a very popular recipe."));
+        mCountryModel.add(new ColdAdapterModel("Fish Karahi", "Fish Karahi", "RS.100","The most delicious, flavourful and spicy fish karahi! "));
+        mCountryModel.add(new ColdAdapterModel("Fish Pakora", "Fish Pakora", "RS.100", "Juicy fish fillets are coated in a spicy batter and fried till a golden perfection."));
+        mCountryModel.add(new ColdAdapterModel("Fish Fry", "Fish Fry", "RS.100", "A fish fry is a meal containing battered or breaded fried fish"));
+        mCountryModel.add(new ColdAdapterModel("Fish Finger", "Fish Finger", "RS.100", "  hello change"));
+        mCountryModel.add(new ColdAdapterModel("Fish Cutluts", "Fish Cutluts", "RS.100", "A cutlet specifically refers to cooked meat (mutton, beef, fish or chicken) stuffing that is fried with a batter/covering. "));
+        mCountryModel.add(new ColdAdapterModel("Fish Chilli", "Fish Chilli", "RS.100", "Marinated fish cubes batter fried and then cooked in freshly made chilli sauce"));
+        mCountryModel.add(new ColdAdapterModel("Fish Manchurian", "Fish Manchurian Dry & Gravy", "RS.100","Fish Manchurian is a Indo Chinese starter, It is an amazing party appetizer "));
